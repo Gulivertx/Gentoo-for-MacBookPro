@@ -1,4 +1,4 @@
-# Gentoo-for-MacBookPro
+# Gentoo for MacBook Pro
 
 Here is some specific Gentoo Linux configuration files.
 These files are configured for a MacBook Pro Mid2012 (9.1)
