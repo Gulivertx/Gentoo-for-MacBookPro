@@ -9,8 +9,8 @@ I do not use full desktop environment, just Awesome WM with some specific custom
 * Full 64bits
 * OpenRC init (SystemD completely removed)
 * UEFI
-* UEFI Stub kernel (Actually I do not use any refind / refit)
+* UEFI Stub kernel (Actually I do not use any refind / refit / grub2 ...)
 * GPT partitions table
-* Intel and NVIDIA with official drivers configured to use NVIDIA optimus from NVIDIA drivers
+* Intel and NVIDIA with official drivers configured to use NVIDIA optimus from NVIDIA drivers (I like to play with some Steam games, then nouveau drivers is not enough)
 
 More information for the installation and more configuration / script files will comming soon
