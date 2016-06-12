@@ -3,13 +3,14 @@
 Here is some specific Gentoo Linux configuration files.
 These files are configured for a MacBook Pro Mid2012 (9.1)
 
+I do not use full desktop environment, just Awesome WM with some specific custom scripts to support keyboard and screen backlight from keyboard function keys, init script to save the status of these and get back in the reboot with the last used configuration...
+
 ## Gentoo installation information
 * Full 64bits
-* SystemD init
-* UEFI installation
+* OpenRC init (SystemD completely removed)
+* UEFI
+* UEFI Stub kernel (Actually I do not use any refind / refit / grub2 ...)
 * GPT partitions table
-* Intel and NVIDIA with official drivers configured to use NVIDIA optimus
+* Intel and NVIDIA with official drivers configured to use NVIDIA optimus from NVIDIA drivers (I like to play with some Steam games, then nouveau drivers is not enough)
 
-I'm using Awesome WM with Gnome integration then it is why I have the Gnome USE-Flag activated
-
-More information for the installation will comming soon
+More information for the installation and more configuration / script files will comming soon
